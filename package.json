@@ -1,0 +1,24 @@
+{
+  "name": "swep_3",
+  "version": "1.0.0",
+  "description": "bar finder app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "supertest": "^6.1.6"
+  },
+  "devDependencies": {
+    "jest": "^27.4.2"
+  },
+  "jest": {
+   "testEnvironment": "node",
+   "coveragePathIgnorePatterns": [
+     "/node_modules/"
+   ]
+ }
+}
