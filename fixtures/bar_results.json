@@ -1,0 +1,952 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "Aap_uEAzfE1SMQbqTU9QAwY1HgUE6ua33YcCyzjsI3_YzB0tZ9th6SOpk-bs8W6dD0HBK1BYIyCDRqjHVDsXQyf8cmTA-KEx4OcbaecDQwhcw24qMR2NmiVfd2fb2TpWkYlrPgqKC4t9Dy1SUX8LZveFBjvrrpWjfNvEmBY6vj2jxLXvPcmV1oPzgn20mW5zR2h6AD__icwcvOYz9eI4CYoJirBqY6zP3UD6pKI4k9QAftocNKBnny82WDkdqc7siiHIMLENrn50fUtmC679Cg9c5l7t7ZZvNfO2uRnIXEVcYXLjHpPcvJxsoXz4dBeTGaN82jXMa1zSlKY3Z06dwjyf2WyRNKinIFHTfDfRZ-URFTbnn86eliV9O7X033r-pO-7QHxxpRnM-s3bXXYEpS-BNxcLASgKhZ7LtmG1vjEwE3-04EBEDyzQ98kBF3Dqby86PellgNE",
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "127 Shoreditch High St, London E1 6JE",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.526849,
+              "lng" : -0.078222
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52819922989271,
+                 "lng" : -0.07677972010727778
+              },
+              "southwest" : {
+                 "lat" : 51.52549957010727,
+                 "lng" : -0.07947937989272222
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Bar Kick",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2176,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102279615390099595857\"\u003eBhushan\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uED1CugYPfqWkFre7REIHYSCriFwRu2MLfG8ASCFi9zVWK6y-xRsMUdWp_VrBQ2Ghvm9st9dIyFup3PNzOQ8RdzcGDC3IEUfqIcvJUqLG_FwFS5pDRQ9rqE40nNR_OWeOWehFGL9asx7T1UCXISFKxaN32_NgH8uIB_MqAptibl9OMxg",
+              "width" : 4608
+           }
+        ],
+        "place_id" : "ChIJG9HAbrocdkgR9GeXpRzGL6U",
+        "plus_code" : {
+           "compound_code" : "GWGC+PP London",
+           "global_code" : "9C3XGWGC+PP"
+        },
+        "price_level" : 2,
+        "rating" : 4.2,
+        "reference" : "ChIJG9HAbrocdkgR9GeXpRzGL6U",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 1267
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "125 Central St, London EC1V 8AP",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5271766,
+              "lng" : -0.0969883
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52847467989271,
+                 "lng" : -0.09562212010727779
+              },
+              "southwest" : {
+                 "lat" : 51.52577502010727,
+                 "lng" : -0.09832177989272223
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "The Corner Bar",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2410,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106865696425962992700\"\u003eTiago Miguel\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDVqgEgDDuc-l6cggC2eauklBFxnKXjf2cjZHaJcSW9VD5d_d8Qh4YSxDrpNVKyHI_55qkh7yBfIW9dxiONNnnT6KN3kpJUJjdb_ycm0rgZ_Qqj1ufeFf6rrmc6ILKdvk6auVUxJO1y_B-4-nrH4mO5vfq4y5XlVBkxNxSEyvOhiKbe",
+              "width" : 4718
+           }
+        ],
+        "place_id" : "ChIJodgyrlkbdkgRaaAcxrkX2Sk",
+        "plus_code" : {
+           "compound_code" : "GWG3+V6 London",
+           "global_code" : "9C3XGWG3+V6"
+        },
+        "price_level" : 2,
+        "rating" : 4.4,
+        "reference" : "ChIJodgyrlkbdkgRaaAcxrkX2Sk",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 133
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "107 Redchurch St, London E2 7DL",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.52482759999999,
+              "lng" : -0.07235910000000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52614517989272,
+                 "lng" : -0.07099622010727777
+              },
+              "southwest" : {
+                 "lat" : 51.52344552010727,
+                 "lng" : -0.07369587989272221
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "The Redchurch Bar",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1000,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115559744664809253673\"\u003eThe RedChurch Bar\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAP2a6onG31Oe2K_IRfZvA5VXO-F2XUcDx4ByIQhp2KQR_syCuhrermxqCgTswomT3fGs9bRtRzwDgppA71-pTi03P-4XyDXhAEeny1DPqLL7nR5_7sSmIWLw3gucQSMnPllVx4ZyRAk-XtT05FTvP2u18fSY6DiismBCf8fNXHbW5f",
+              "width" : 1500
+           }
+        ],
+        "place_id" : "ChIJG08hjrccdkgRf8I3_6X6dV8",
+        "plus_code" : {
+           "compound_code" : "GWFH+W3 London",
+           "global_code" : "9C3XGWFH+W3"
+        },
+        "price_level" : 2,
+        "rating" : 3.4,
+        "reference" : "ChIJG08hjrccdkgRf8I3_6X6dV8",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 227
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "Central St, London EC1V 8DS",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5274923,
+              "lng" : -0.09589099999999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52882327989272,
+                 "lng" : -0.09473192010727779
+              },
+              "southwest" : {
+                 "lat" : 51.52612362010728,
+                 "lng" : -0.09743157989272223
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Bar 120",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/112169227637474062666\"\u003eNeil Dodd\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAanhiKmR_V20JDf5i2cDK9K5TmPRzPC2wA_6smV4X_f4Uc63mCW4EBBXx5MCjRYVXFbk6Ch5gNOx7TI13zsYVVEqlobv3U3b8PlkL7ZsiLhyVrLUN_xlUyqU2wP3wUI8T_EpJyZogAYIbgPr0eavxoS87pviBpA6xobCaOVp7q7_qV",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJUdKHUlgbdkgRBbuG3_rcXsA",
+        "plus_code" : {
+           "compound_code" : "GWG3+XJ London",
+           "global_code" : "9C3XGWG3+XJ"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJUdKHUlgbdkgRBbuG3_rcXsA",
+        "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 7
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "149 Brick Ln, Bethnal Green, London E1 6SB",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.52421200000001,
+              "lng" : -0.07163509999999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52556322989272,
+                 "lng" : -0.07026732010727778
+              },
+              "southwest" : {
+                 "lat" : 51.52286357010728,
+                 "lng" : -0.07296697989272222
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Montys Bar",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 6936,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108923925468924295692\"\u003eJose Salas\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBfYTFNiNPIMD6ivORlVSakySXsPzzYLtpPLVZjSzirdV8hF89BsJLjJEtAjWmUGr28rXnK0Y-SOm9Sf3HNSgv6NgQpdDfoqHe_FCvzy3oxWPnGnOE6lRuI6RppSiCM-tyJxhXCMmhVWkzuvxUnyGZyUs_2LOV8e7t6iWJxy8-D9L-U",
+              "width" : 9248
+           }
+        ],
+        "place_id" : "ChIJ_5IXwbccdkgRLm8VgVUbr0w",
+        "plus_code" : {
+           "compound_code" : "GWFH+M8 London",
+           "global_code" : "9C3XGWFH+M8"
+        },
+        "price_level" : 2,
+        "rating" : 4.4,
+        "reference" : "ChIJ_5IXwbccdkgRLm8VgVUbr0w",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 370
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "5a Ravey St, London EC2A 4QW",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.524815,
+              "lng" : -0.082186
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52616052989273,
+                 "lng" : -0.08079447010727776
+              },
+              "southwest" : {
+                 "lat" : 51.52346087010729,
+                 "lng" : -0.0834941298927222
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Home Bar",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3036,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113410465057761678735\"\u003eLex Robinson\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECz7666U6lEz1HlEjUDkeOghZ5X_K6HaMAYD4OkSNhpouKLTw5vRmchFvlhrdOB-45GeWalRlPDmKKf4RowsNnbV6fh8BovVHQGUCFng7JVFcCYnPS5Q2PwX6AFVQstkhEX2Hc95c03FgFlnIoUVOUKRIdzZzjWY2a8Cx_bhn_LK8Rj",
+              "width" : 4048
+           }
+        ],
+        "place_id" : "ChIJqXISHbAcdkgRXsaSCU-b66E",
+        "plus_code" : {
+           "compound_code" : "GWF9+W4 London",
+           "global_code" : "9C3XGWF9+W4"
+        },
+        "rating" : 4.9,
+        "reference" : "ChIJqXISHbAcdkgRXsaSCU-b66E",
+        "types" : [
+           "night_club",
+           "meal_takeaway",
+           "bar",
+           "restaurant",
+           "food",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 103
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "16a New St, London EC2M 4TR",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5171352,
+              "lng" : -0.07943660000000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.51850107989272,
+                 "lng" : -0.07807277010727778
+              },
+              "southwest" : {
+                 "lat" : 51.51580142010727,
+                 "lng" : -0.08077242989272222
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Old Bengal Bar",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 5792,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102047908792603208211\"\u003eOld Bengal Bar\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAL1qY4pptdcSlO0cGvy9AMGRPeBvjCO3eBkIebgdjC8oOG2Bp2c9j-5ChgvuGORa5o4lz5yBa5LLDQYWbrHS5pw5_LUQEdlbU5mRNhbX3-QDz0VzFxVRxcsJGuTK7PwcsTWdlYriuXfmMBMy1x61W7KIocFwvP2vyeUgtqD1X8z5T2",
+              "width" : 8688
+           }
+        ],
+        "place_id" : "ChIJaf3VArMcdkgRDP8tt4oZLrI",
+        "plus_code" : {
+           "compound_code" : "GW8C+V6 London",
+           "global_code" : "9C3XGW8C+V6"
+        },
+        "price_level" : 2,
+        "rating" : 4.1,
+        "reference" : "ChIJaf3VArMcdkgRDP8tt4oZLrI",
+        "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 184
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "61 Royal Mint St, London E1 8LG",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.51065879999999,
+              "lng" : -0.06906659999999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.51206092989271,
+                 "lng" : -0.06773507010727776
+              },
+              "southwest" : {
+                 "lat" : 51.50936127010727,
+                 "lng" : -0.0704347298927222
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Simmons Bar | Tower Bridge",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1001,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109027079480853407255\"\u003eSimmons Tower Bridge\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBVfKShylD5Mz0OELkbTHwDg3s3CI13MIl5lud6yQdG7HYeHd8bf9Hh5kleRzZXwmacMKRicPzBzUjqquwCzKWD5hTqWEDBLqny63PeT7qITKKjBlp5_54MlDobYcYVoEJyDr1m6R5zT_gf2TZIWbwrMczx2F8_7yzvMoQe-8sZfhES",
+              "width" : 1500
+           }
+        ],
+        "place_id" : "ChIJU2RB6TUDdkgRdMFTLtY_DYU",
+        "plus_code" : {
+           "compound_code" : "GW6J+79 London",
+           "global_code" : "9C3XGW6J+79"
+        },
+        "price_level" : 2,
+        "rating" : 4.7,
+        "reference" : "ChIJU2RB6TUDdkgRdMFTLtY_DYU",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 591
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "174 Brick Ln, London E1 6RU",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.52251159999999,
+              "lng" : -0.0715181
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52386327989272,
+                 "lng" : -0.07019642010727778
+              },
+              "southwest" : {
+                 "lat" : 51.52116362010727,
+                 "lng" : -0.07289607989272222
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Exit Bar",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2988,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/112351148699506090461\"\u003eExit Bar - Brick lane\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECqt-rH3dLG2zfxe2_HitUyU1EbnpZn8jNOiTd1S7B3yE0M3kf-W176L2gJjh-N4zPnazYZZQU5sQmT0JaA9f_CGpF0u_cgv7hUX3omaUof3G_ZSrjbGH1g77qhVoambFc9Vx5ZYGyj8bdZdPEN6A_8iN80IwpduHeiPY_D44HHtFhW",
+              "width" : 5312
+           }
+        ],
+        "place_id" : "ChIJIZ4fOrYcdkgRI4hT8N0HteE",
+        "plus_code" : {
+           "compound_code" : "GWFH+29 London",
+           "global_code" : "9C3XGWFH+29"
+        },
+        "price_level" : 1,
+        "rating" : 4.1,
+        "reference" : "ChIJIZ4fOrYcdkgRI4hT8N0HteE",
+        "types" : [ "bar", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 182
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "27 Poultry, London EC2R 8AJ",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5137241,
+              "lng" : -0.08967739999999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.51495967989272,
+                 "lng" : -0.08858227010727779
+              },
+              "southwest" : {
+                 "lat" : 51.51226002010728,
+                 "lng" : -0.09128192989272223
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "The Library Bar",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1069,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113545123788075128648\"\u003eA Google User\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB2neBx5WfwsDg2GrD6anlbNHWKCfzK7jOp4GApV7mcOgGvypVDaaKFSUR7jQXiSTWwZJU-_BiT_1EZVSXGX9DG90cVViESKFOlH98-gg0zggZK6Ym3xvHC2D3d4Fjp7SWu593uGjsRVLQl9T28UAESorgHdta9T8AwgH2fIe7s4-E",
+              "width" : 1602
+           }
+        ],
+        "place_id" : "ChIJSeuMTcADdkgRbLfGd-ZIGRo",
+        "plus_code" : {
+           "compound_code" : "GW76+F4 London",
+           "global_code" : "9C3XGW76+F4"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJSeuMTcADdkgRbLfGd-ZIGRo",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 9
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "1 Duke St Hill, London SE1 2SW",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5060904,
+              "lng" : -0.0870026
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.50736847989272,
+                 "lng" : -0.08561677010727778
+              },
+              "southwest" : {
+                 "lat" : 51.50466882010728,
+                 "lng" : -0.08831642989272222
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "N1 Bar London",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1960,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/118116794924173655214\"\u003eVictor Jean Naranjo Torres\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB3yMt21S84MOqMVY4t6NYyb_b2Ar3DEojxT52Hr6XpXyI-tFe0FNKdRZGOPq2SsS0EDxPY9GNSTwsWVzqnC8dCd90f0bjN-U3aPJ8XKGvXJM3ITAohoYbcQyzMC4sYm-Xavssdy0wlQlvfGECY4_Lv6bWsLESJoAIqHs4FWjiBHAgA",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJFRrrxlADdkgRwc6JoZBMWus",
+        "plus_code" : {
+           "compound_code" : "GW47+C5 London",
+           "global_code" : "9C3XGW47+C5"
+        },
+        "price_level" : 2,
+        "rating" : 3.6,
+        "reference" : "ChIJFRrrxlADdkgRwc6JoZBMWus",
+        "types" : [
+           "night_club",
+           "bar",
+           "restaurant",
+           "food",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 970
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "134-146 Curtain Rd, London EC2A 3AR",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5265325,
+              "lng" : -0.0800816
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52788767989273,
+                 "lng" : -0.07886817010727779
+              },
+              "southwest" : {
+                 "lat" : 51.52518802010728,
+                 "lng" : -0.08156782989272222
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Bourbon Bar",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3648,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102426544488616092432\"\u003eDelroy Kerr\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDIKsriGXWc8-1-VJw0Z08LmJPrjAiZFmU-wqyX5neqwxtgsotOlZdMDVm8YVW4fybGYVcheiwpA4d0_4I3p2mFE8DmdpVlI5SIJM-ilE3ryw8BaS5MqLkGGZv6mXjtDLpvzfAxoyILfNWRe1GEoeu0diHnWMtKuZFO0HAYn-v8goeZ",
+              "width" : 5472
+           }
+        ],
+        "place_id" : "ChIJ3SyAjbocdkgRm1X-YhETAF0",
+        "plus_code" : {
+           "compound_code" : "GWG9+JX London",
+           "global_code" : "9C3XGWG9+JX"
+        },
+        "rating" : 2.5,
+        "reference" : "ChIJ3SyAjbocdkgRm1X-YhETAF0",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 8
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "Ely's Yard, 15 Hanbury St, London E1 6QR",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5205128,
+              "lng" : -0.0736106
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52175937989272,
+                 "lng" : -0.07225357010727779
+              },
+              "southwest" : {
+                 "lat" : 51.51905972010727,
+                 "lng" : -0.07495322989272223
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Juju's Bar and Stage",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/116367652767833007612\"\u003eDaniel Pérez Domínguez\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uED_ZddYxWP8w04D3M6H_4HkQcv5tqUYTYN6HDdIlpX6CEsFw_7PHTNpeyu89SDn_sJSWKILARb6qrHhFheAM9_K5R6dwZ8CwYrh9K18KEm5FBrUFpixkg990YZPaG-s9Vd5La6hx2lG4oZ-Bu94RwS6wdVTJI5blR1qtk2UFCgffyER",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJ5QMqYrYcdkgRJO_Xt9K1y7w",
+        "plus_code" : {
+           "compound_code" : "GWCG+6H London",
+           "global_code" : "9C3XGWCG+6H"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJ5QMqYrYcdkgRJO_Xt9K1y7w",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 574
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "28 King William St, London EC4R 9AT",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5105218,
+              "lng" : -0.08708249999999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.51180967989272,
+                 "lng" : -0.08560492010727778
+              },
+              "southwest" : {
+                 "lat" : 51.50911002010728,
+                 "lng" : -0.08830457989272222
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Be At One Monument",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2592,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/112044268716804816588\"\u003eNicolau Faulhaber\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAF0BBkDWJnNAkbSIf0X-MF_euWXgOPyeOIad1mU0MSZfKHfC7LsOXDlSvm55fLn9rVGfCZYkBAjfZBIPEiZu6P4LOLFiZzBAb86dOnwfmQLXQzy_k5vG_5VJ73W1Rr3RTpZsQOIDYt7Ll08S1ekYx_V9OYOk4dBp0h3XoSjGJudsHk",
+              "width" : 4608
+           }
+        ],
+        "place_id" : "ChIJwbCL7lMDdkgRFIV1xElLZkY",
+        "plus_code" : {
+           "compound_code" : "GW67+65 London",
+           "global_code" : "9C3XGW67+65"
+        },
+        "price_level" : 2,
+        "rating" : 4.1,
+        "reference" : "ChIJwbCL7lMDdkgRFIV1xElLZkY",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 602
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "10-15 Queen St, London EC4N 1TY",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.51295709999999,
+              "lng" : -0.09280629999999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.51420322989271,
+                 "lng" : -0.09130657010727777
+              },
+              "southwest" : {
+                 "lat" : 51.51150357010727,
+                 "lng" : -0.09400622989272221
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Core Bar",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1365,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107525490544779990334\"\u003eCore Bar\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECu3N9VKXep0uhZsVhd-rtXZTfNxdjecGdn8vJE2i2r878ZLDtmXzZo4npu2QSomEjytHy4IQNWBWAft1TXUzZ3fVEyBuv8J9Z3sSQrEs-Q7rVR2oRxGsRVYBUjpqJYC-8zciDaiNyRA56qnoikEBesigTovU5Bq1eWcUXw0Tvmgg8R",
+              "width" : 2048
+           }
+        ],
+        "place_id" : "ChIJNQsDclUDdkgRvZqcNZvdRgM",
+        "plus_code" : {
+           "compound_code" : "GW74+5V London",
+           "global_code" : "9C3XGW74+5V"
+        },
+        "price_level" : 2,
+        "rating" : 3.9,
+        "reference" : "ChIJNQsDclUDdkgRvZqcNZvdRgM",
+        "types" : [
+           "bar",
+           "night_club",
+           "restaurant",
+           "food",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 736
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "348 Old St, London EC1V 9NQ",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5267393,
+              "lng" : -0.0808696
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52814487989271,
+                 "lng" : -0.07953667010727779
+              },
+              "southwest" : {
+                 "lat" : 51.52544522010727,
+                 "lng" : -0.08223632989272223
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Be At One - Shoreditch",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2832,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106276240238361691290\"\u003eA Google User\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB09q510OvumwTrINv2SPYMf58Q5O1QKXmt1nxi6p6wdiHgonCYwVQbXfSFLe-uJA8x-rrPjgRkkTmN9YVuAIOPwnBYkYhw_Y4X40ynkprfaF81In_Yar9A3hb8GN7sNxX232Fp23Fm4H_FazNJh8T3cnoZXszgcU5ZgKHPZukO6RFb",
+              "width" : 4256
+           }
+        ],
+        "place_id" : "ChIJEydavrocdkgRSPZlYOtszUc",
+        "plus_code" : {
+           "compound_code" : "GWG9+MM London",
+           "global_code" : "9C3XGWG9+MM"
+        },
+        "price_level" : 2,
+        "rating" : 4.2,
+        "reference" : "ChIJEydavrocdkgRSPZlYOtszUc",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 734
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "2 Paul St, Greater, London EC2A 4JH",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.52219359999999,
+              "lng" : -0.0844317
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52353962989273,
+                 "lng" : -0.08312652010727778
+              },
+              "southwest" : {
+                 "lat" : 51.52083997010728,
+                 "lng" : -0.08582617989272222
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Blueberry Bar",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "place_id" : "ChIJwXCpWq4cdkgRG7VkXQt1QCA",
+        "plus_code" : {
+           "compound_code" : "GWC8+V6 London",
+           "global_code" : "9C3XGWC8+V6"
+        },
+        "rating" : 0,
+        "reference" : "ChIJwXCpWq4cdkgRG7VkXQt1QCA",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 0
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "35 Eastcheap, London EC3M 1DE",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5107453,
+              "lng" : -0.08375529999999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.51204132989272,
+                 "lng" : -0.08244842010727775
+              },
+              "southwest" : {
+                 "lat" : 51.50934167010728,
+                 "lng" : -0.08514807989272219
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Simmons Bar | Monument",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 551,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102156850133626387239\"\u003eA Google User\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECWlLqiJZA64AGWydhqy4Y2Tvu4CK4SuubdNdd6xohhcysEPcnkyEONbcWnan1kawbZyfore2fe-M5W5A1HfhT8BTeVUSMszyceyDzP7CJfFxtsIvNzFF6Cg8PGbfoq0KlE5A8s45vd6EtkAMh4p9O1p15zNpJhAAcUxRbM8vVjzgCR",
+              "width" : 827
+           }
+        ],
+        "place_id" : "ChIJRYAkh3wDdkgRnCmIhlyIVIM",
+        "plus_code" : {
+           "compound_code" : "GW68+7F London",
+           "global_code" : "9C3XGW68+7F"
+        },
+        "price_level" : 2,
+        "rating" : 4.7,
+        "reference" : "ChIJRYAkh3wDdkgRnCmIhlyIVIM",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 439
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "138-139 Shoreditch High St, London E1 6JE",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5262233,
+              "lng" : -0.0781978
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52759992989272,
+                 "lng" : -0.07683342010727778
+              },
+              "southwest" : {
+                 "lat" : 51.52490027010727,
+                 "lng" : -0.07953307989272222
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Phoenix Bar",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2610,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107865476664209585137\"\u003ePatrícia Luiz de Castro\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEA1vdoU6cGhCrjf5Nl4dve4_9H--fk_fE6wLJXGCbvtSIH3xm8sDyGXr52aueOaeOZaJpAGZcQ5WhcFnmcF7RIpPNyhxlYcioDYBuQVsEjARab-KwfOgdhcGPqLT8FLxTlJFZnISZzlIDgQTWS_JO9MyBsbmPefJEMmYzlcYrII6aPQ",
+              "width" : 4640
+           }
+        ],
+        "place_id" : "ChIJHcxKVVoddkgR0aiZS1lq5-s",
+        "plus_code" : {
+           "compound_code" : "GWGC+FP London",
+           "global_code" : "9C3XGWGC+FP"
+        },
+        "rating" : 3.6,
+        "reference" : "ChIJHcxKVVoddkgR0aiZS1lq5-s",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 311
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "formatted_address" : "235 Old St, London EC1V 9HE",
+        "geometry" : {
+           "location" : {
+              "lat" : 51.5262551,
+              "lng" : -0.0859564
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 51.52755117989271,
+                 "lng" : -0.08457077010727777
+              },
+              "southwest" : {
+                 "lat" : 51.52485152010727,
+                 "lng" : -0.08727042989272221
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name" : "Simmons Bar | Old Street",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1365,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100864604554866001831\"\u003eA Google User\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEC6ctqgyXlQl7hel0sRiEIsETYouLX8_SmO-LsWRoX9QEIt97vh-mgdZg3OLa5_AiuXLY2Xt9jz0Jb_H_-Lj6hvqRwvHkYvoi1K4zb3m8nU8x09aPLYeBhnQoUhPNEGDcZlessEWleRR9k7PBI-MfpGNmSX22Hp2TCJPF639Oo1HnoC",
+              "width" : 2048
+           }
+        ],
+        "place_id" : "ChIJiX3I0wAddkgR17EREehAlzs",
+        "plus_code" : {
+           "compound_code" : "GWG7+GJ London",
+           "global_code" : "9C3XGWG7+GJ"
+        },
+        "price_level" : 2,
+        "rating" : 4.4,
+        "reference" : "ChIJiX3I0wAddkgR17EREehAlzs",
+        "types" : [ "bar", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 273
+     }
+  ],
+  "status" : "OK"
+}
