@@ -1,11 +1,13 @@
 const express = require('express');
 const app = express();
-const client = require('../src/client');
+const Client = require('../src/client');
 
-app.get('/bars', (req, res) => {
+app.get('/bars', async (req, res) => {
   const client = new Client;
 
-  res.json(client.getLocations({x: 1234556, y: 1234556}, 1600));
+  const results = await client.getLocations({x: 51.5173523, y: -0.0754469}, 1600);
+
+  res.send({results: results});
 });
 
 module.exports = app;

@@ -10,7 +10,8 @@ class Client {
       `&location=${coordinates.x},${coordinates.y}` +
       `&radius=${radius}${fixedfilters}&key=API_KEY_HERE&opennow`
     )
-    return response;
+    console.log(response.data.results);
+    return response.data.results;
   }
 }
 
