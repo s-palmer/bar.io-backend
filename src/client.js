@@ -1,16 +1,23 @@
 const axios = require('axios');
 
 class Client {
+  #endPoint;
+  #apiKey;
+
+  constructor() {
+    this.#endPoint = process.env.PLACES_API_ENDPOINT;
+    this.#apiKey = process.env.PLACES_API_KEY;
+  }
+
   async getLocations(coordinates, radius) {
-    const endPoint = 'https://maps.googleapis.com/maps/api/place/textsearch/json?query=bar'
     const fixedfilters = '&region=uk&type=bar'
 
     const response = await axios.get(
-      endPoint +
+      this.#endPoint +
+      'json?query=bar' +
       `&location=${coordinates.x},${coordinates.y}` +
-      `&radius=${radius}${fixedfilters}&key=API_KEY_HERE&opennow`
+      `&radius=${radius}${fixedfilters}&key=${this.#apiKey}&opennow`
     )
-    console.log(response.data.results);
     return response.data.results;
   }
 }
