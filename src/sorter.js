@@ -1,7 +1,7 @@
 class Sorter {
   topFiveBars(results) {
     const goodRating = this.#ratingFilter(results);
-    const orderedBars =  this.#orderByRating(this.#addPopulerRating(goodRating));
+    const orderedBars =  this.#orderByRating(this.#addpopularityRating(goodRating));
 
     return orderedBars.slice(-5).reverse();
   }
@@ -10,20 +10,20 @@ class Sorter {
     return results.filter( bar => bar.rating > 4 )
   }
 
-  #addPopulerRating(results) {
+  #addpopularityRating(results) {
     return results.map(bar => {
-      bar.popularRating = this.#popularRating(bar);
+      bar.popularityRating = this.#popularityRating(bar);
       return bar;
     });
   }
 
   #orderByRating(results) {
     return results.sort((a, b) => {
-      return a.popularRating - b.popularRating
+      return a.popularityRating - b.popularityRating
     });
   }
 
-  #popularRating(bar) {
+  #popularityRating(bar) {
     const rating = bar.rating * bar.user_ratings_total / 100
     return Math.round(rating * 10) / 10;
   }
