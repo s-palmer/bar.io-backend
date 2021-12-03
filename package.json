@@ -2,13 +2,14 @@
   "name": "swep_3",
   "version": "1.0.0",
   "description": "bar finder app",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "supertest": "^6.1.6"
   },
@@ -18,11 +19,5 @@
     "eslint-config-google": "^0.14.0",
     "jest": "^27.4.3",
     "nodemon": "^2.0.15"
-  },
-  "jest": {
-    "testEnvironment": "node",
-    "coveragePathIgnorePatterns": [
-      "/node_modules/"
-    ]
   }
 }
