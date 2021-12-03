@@ -15,15 +15,15 @@ describe('Sorter', () => {
     })
 
     it('adds a popular rating to each bar', () => {
-      const leastRecommended = topFiveResults[0];
+      const mostRecommended = topFiveResults[0];
 
-      expect(leastRecommended.popularRating).toEqual(53.2)
+      expect(mostRecommended.popularityRating).toEqual(53.2)
     })
 
     it('ordereds results to popular rating', () => {
-      const leastRecommended = topFiveResults[0];
+      const mostRecommended = topFiveResults[0];
 
-      expect(leastRecommended.name).toEqual('Bar Kick')
+      expect(mostRecommended.name).toEqual('Bar Kick')
     })
 
     it('filters results down to 5 results', () => {
