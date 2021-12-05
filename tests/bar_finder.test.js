@@ -44,6 +44,7 @@ describe('BarFinder', () => {
 
 
       expect(results[0]).toEqual(formattedResults);
+      expect(results.length).toEqual(5);
     });
   });
 });
