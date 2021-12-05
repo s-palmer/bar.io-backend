@@ -7,10 +7,14 @@ class BarFinder {
 
   search(coordinates, walkTime) {
     let walkTimeToMeters = this.#convertToMeters(walkTime),
-        data = this.client.getLocations(coordinates, walkTimeToMeters),
-        rawResults = this.sorter.topFiveBars(data);
+        data = this.client.getLocations(coordinates, walkTimeToMeters);
 
-        return this.#format(rawResults);
+    if (Object.entries(data).length === 0) {
+      return {};
+    } else {
+      let rawResults = this.sorter.topFiveBars(data);
+      return this.#format(rawResults);
+    }
   }
 
   #convertToMeters(walkTime) {

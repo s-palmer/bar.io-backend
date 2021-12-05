@@ -1,13 +1,13 @@
 const BarFinder = require('../src/bar_finder');
 const clientResults = require('../fixtures/bar_results');
 const topFiveResults = require('../fixtures/top_five_bars')
-const client = { getLocations() { return clientResults } };
-const sorter = { topFiveBars() { return topFiveResults.results } };
+const coordinates = { lat: 51.52485152010727, lng: -0.08727042989272221 };
+const walkTime = 15;
 
 describe('BarFinder', () => {
-  const barFinder = new BarFinder(client, sorter);
-  const coordinates = { lat: 51.52485152010727, lng: -0.08727042989272221 };
-  const walkTime = 15;
+  let client = { getLocations() { return clientResults } };
+  let sorter = { topFiveBars() { return topFiveResults.results } };
+  let barFinder = new BarFinder(client, sorter);
 
   describe('search', () => {
     beforeEach(() => {
@@ -46,5 +46,17 @@ describe('BarFinder', () => {
       expect(results[0]).toEqual(formattedResults);
       expect(results.length).toEqual(5);
     });
+
+    describe('when client returns empty results', () => {
+      let client = { getLocations() { return {} } };
+      let sorter = { topFiveBars() { return {} } };
+      let barFinder = new BarFinder(client, sorter);
+
+      it('returns an empty object', () => {
+        console.log(client.getLocations());
+        result = barFinder.search(coordinates, walkTime);
+        expect(result).toEqual({});
+      })
+    })
   });
 });
