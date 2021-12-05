@@ -29,7 +29,7 @@ describe('BarFinder', () => {
       expect(sorter.topFiveBars).toHaveBeenCalledWith(clientResults);
     });
 
-    it('returns formatted results', () => {
+    it('returns formatted results', async () => {
       const formattedResults = {
         name: 'Bar Kick',
         formatted_address: '127 Shoreditch High St, London E1 6JE',
@@ -40,7 +40,7 @@ describe('BarFinder', () => {
         types: [ 'bar', 'point_of_interest', 'establishment' ]
       }
 
-      results = barFinder.search(coordinates, walkTime);
+      results = await barFinder.search(coordinates, walkTime);
 
 
       expect(results[0]).toEqual(formattedResults);
@@ -52,9 +52,8 @@ describe('BarFinder', () => {
       let sorter = { topFiveBars() { return {} } };
       let barFinder = new BarFinder(client, sorter);
 
-      it('returns an empty object', () => {
-        console.log(client.getLocations());
-        result = barFinder.search(coordinates, walkTime);
+      it('returns an empty object', async () => {
+        result = await barFinder.search(coordinates, walkTime);
         expect(result).toEqual({});
       })
     })
