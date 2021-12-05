@@ -8,7 +8,8 @@ class BarFinder {
     const metersPerMinute = 80,
           walkTimeToMeters = walkTime * metersPerMinute;
 
-    this.client.getLocations(coordinates, walkTimeToMeters);
+    let data = this.client.getLocations(coordinates, walkTimeToMeters),
+        rawResults = this.sorter.topFiveBars(data);
   }
 }
 
