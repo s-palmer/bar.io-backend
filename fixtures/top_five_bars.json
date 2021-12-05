@@ -1,0 +1,238 @@
+{
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "127 Shoreditch High St, London E1 6JE",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.526849,
+          "lng" : -0.078222
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.52819922989271,
+            "lng" : -0.07677972010727778
+          },
+          "southwest" : {
+            "lat" : 51.52549957010727,
+            "lng" : -0.07947937989272222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name" : "Bar Kick",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2176,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102279615390099595857\"\u003eBhushan\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uED1CugYPfqWkFre7REIHYSCriFwRu2MLfG8ASCFi9zVWK6y-xRsMUdWp_VrBQ2Ghvm9st9dIyFup3PNzOQ8RdzcGDC3IEUfqIcvJUqLG_FwFS5pDRQ9rqE40nNR_OWeOWehFGL9asx7T1UCXISFKxaN32_NgH8uIB_MqAptibl9OMxg",
+          "width" : 4608
+        }
+      ],
+      "place_id" : "ChIJG9HAbrocdkgR9GeXpRzGL6U",
+      "plus_code" : {
+        "compound_code" : "GWGC+PP London",
+        "global_code" : "9C3XGWGC+PP"
+      },
+      "price_level" : 2,
+      "rating" : 4.2,
+      "reference" : "ChIJG9HAbrocdkgR9GeXpRzGL6U",
+      "types" : [ "bar", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1267
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "348 Old St, London EC1V 9NQ",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5267393,
+          "lng" : -0.0808696
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.52814487989271,
+            "lng" : -0.07953667010727779
+          },
+          "southwest" : {
+            "lat" : 51.52544522010727,
+            "lng" : -0.08223632989272223
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name" : "Be At One - Shoreditch",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2832,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106276240238361691290\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEB09q510OvumwTrINv2SPYMf58Q5O1QKXmt1nxi6p6wdiHgonCYwVQbXfSFLe-uJA8x-rrPjgRkkTmN9YVuAIOPwnBYkYhw_Y4X40ynkprfaF81In_Yar9A3hb8GN7sNxX232Fp23Fm4H_FazNJh8T3cnoZXszgcU5ZgKHPZukO6RFb",
+          "width" : 4256
+        }
+      ],
+      "place_id" : "ChIJEydavrocdkgRSPZlYOtszUc",
+      "plus_code" : {
+        "compound_code" : "GWG9+MM London",
+        "global_code" : "9C3XGWG9+MM"
+      },
+      "price_level" : 2,
+      "rating" : 4.2,
+      "reference" : "ChIJEydavrocdkgRSPZlYOtszUc",
+      "types" : [ "bar", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 734
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "61 Royal Mint St, London E1 8LG",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.51065879999999,
+          "lng" : -0.06906659999999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.51206092989271,
+            "lng" : -0.06773507010727776
+          },
+          "southwest" : {
+            "lat" : 51.50936127010727,
+            "lng" : -0.0704347298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name" : "Simmons Bar | Tower Bridge",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1001,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109027079480853407255\"\u003eSimmons Tower Bridge\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEBVfKShylD5Mz0OELkbTHwDg3s3CI13MIl5lud6yQdG7HYeHd8bf9Hh5kleRzZXwmacMKRicPzBzUjqquwCzKWD5hTqWEDBLqny63PeT7qITKKjBlp5_54MlDobYcYVoEJyDr1m6R5zT_gf2TZIWbwrMczx2F8_7yzvMoQe-8sZfhES",
+          "width" : 1500
+        }
+      ],
+      "place_id" : "ChIJU2RB6TUDdkgRdMFTLtY_DYU",
+      "plus_code" : {
+        "compound_code" : "GW6J+79 London",
+        "global_code" : "9C3XGW6J+79"
+      },
+      "price_level" : 2,
+      "rating" : 4.7,
+      "reference" : "ChIJU2RB6TUDdkgRdMFTLtY_DYU",
+      "types" : [ "bar", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 591
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "28 King William St, London EC4R 9AT",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5105218,
+          "lng" : -0.08708249999999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.51180967989272,
+            "lng" : -0.08560492010727778
+          },
+          "southwest" : {
+            "lat" : 51.50911002010728,
+            "lng" : -0.08830457989272222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name" : "Be At One Monument",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2592,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112044268716804816588\"\u003eNicolau Faulhaber\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEAF0BBkDWJnNAkbSIf0X-MF_euWXgOPyeOIad1mU0MSZfKHfC7LsOXDlSvm55fLn9rVGfCZYkBAjfZBIPEiZu6P4LOLFiZzBAb86dOnwfmQLXQzy_k5vG_5VJ73W1Rr3RTpZsQOIDYt7Ll08S1ekYx_V9OYOk4dBp0h3XoSjGJudsHk",
+          "width" : 4608
+        }
+      ],
+      "place_id" : "ChIJwbCL7lMDdkgRFIV1xElLZkY",
+      "plus_code" : {
+        "compound_code" : "GW67+65 London",
+        "global_code" : "9C3XGW67+65"
+      },
+      "price_level" : 2,
+      "rating" : 4.1,
+      "reference" : "ChIJwbCL7lMDdkgRFIV1xElLZkY",
+      "types" : [ "bar", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 602
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "Ely's Yard, 15 Hanbury St, London E1 6QR",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5205128,
+          "lng" : -0.0736106
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.52175937989272,
+            "lng" : -0.07225357010727779
+          },
+          "southwest" : {
+            "lat" : 51.51905972010727,
+            "lng" : -0.07495322989272223
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name" : "Juju's Bar and Stage",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116367652767833007612\"\u003eDaniel Pérez Domínguez\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uED_ZddYxWP8w04D3M6H_4HkQcv5tqUYTYN6HDdIlpX6CEsFw_7PHTNpeyu89SDn_sJSWKILARb6qrHhFheAM9_K5R6dwZ8CwYrh9K18KEm5FBrUFpixkg990YZPaG-s9Vd5La6hx2lG4oZ-Bu94RwS6wdVTJI5blR1qtk2UFCgffyER",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJ5QMqYrYcdkgRJO_Xt9K1y7w",
+      "plus_code" : {
+        "compound_code" : "GWCG+6H London",
+        "global_code" : "9C3XGWCG+6H"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJ5QMqYrYcdkgRJO_Xt9K1y7w",
+      "types" : [ "bar", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 574
+    }
+  ]
+}
