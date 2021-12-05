@@ -5,9 +5,9 @@ class BarFinder {
     this.metersPerMinute = 80;
   }
 
-  search(coordinates, walkTime) {
+  async search(coordinates, walkTime) {
     let walkTimeToMeters = this.#convertToMeters(walkTime),
-        data = this.client.getLocations(coordinates, walkTimeToMeters);
+        data = await this.client.getLocations(coordinates, walkTimeToMeters);
 
     if (Object.entries(data).length === 0) {
       return {};
