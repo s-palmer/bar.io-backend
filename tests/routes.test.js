@@ -1,17 +1,22 @@
-const request = require('supertest');
 const app = require('../src/routes');
+const Client = require('../src/client');
+const clientResults = require('../fixtures/bar_results');
+const formatted_response = require('../fixtures/formatted_response');
+const request = require('supertest');
 
 describe('/bars', () => {
-  it('returns 200 response', async () => {
-    const res = await request(app).get('/bars');
+  beforeEach(() => {
+    jest.spyOn(Client.prototype, 'getLocations')
+    .mockImplementation(() => clientResults.results);
+});
 
-    expect(res.statusCode).toEqual(200);
+  it('returns 200 response', async () => {
+    await request(app).get('/bars').expect(200);
   });
 
-  xit('contains a json response', async () => {
-    const jsonResponse = {results: []};
+  it('contains a json response', async () => {
     const res = await request(app).get('/bars');
 
-    expect(res.body).toEqual(jsonResponse);
+    expect(res.body).toEqual(formatted_response);
   });
 });

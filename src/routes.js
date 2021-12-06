@@ -1,13 +1,17 @@
 const express = require('express');
 const app = express();
-const Client = require('../src/client');
+const BarFinder = require('./bar_finder');
+const Client = require('./client');
+const Sorter = require('./sorter');
 
 app.get('/bars', async (req, res) => {
-  const client = new Client;
+  const barFinder = new BarFinder(new Client, new Sorter);
+  const coordinates = {x: 51.5173523, y: -0.0754469};
+  const walkTime = 15;
 
-  const results = await client.getLocations({x: 51.5173523, y: -0.0754469}, 1600);
+  const results = await barFinder.search(coordinates, walkTime);
 
-  res.send({results: results});
+  res.json({results: results});
 });
 
 module.exports = app;
