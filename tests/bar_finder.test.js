@@ -5,7 +5,7 @@ const coordinates = { lat: 51.52485152010727, lng: -0.08727042989272221 };
 const walkTime = 15;
 
 describe('BarFinder', () => {
-  let client = { getLocations() { return clientResults } };
+  let client = { getLocations() { return clientResults.results } };
   let sorter = { topFiveBars() { return topFiveResults.results } };
   let barFinder = new BarFinder(client, sorter);
 
@@ -26,7 +26,7 @@ describe('BarFinder', () => {
     it('calls the sorter with client results', () => {
       barFinder.search(coordinates, walkTime);
 
-      expect(sorter.topFiveBars).toHaveBeenCalledWith(clientResults);
+      expect(sorter.topFiveBars).toHaveBeenCalledOnce;
     });
 
     it('returns formatted results', async () => {
@@ -48,13 +48,13 @@ describe('BarFinder', () => {
     });
 
     describe('when client returns empty results', () => {
-      let client = { getLocations() { return {} } };
-      let sorter = { topFiveBars() { return {} } };
+      let client = { getLocations() { return [] } };
+      let sorter = { topFiveBars() { return [] } };
       let barFinder = new BarFinder(client, sorter);
 
       it('returns an empty object', async () => {
         result = await barFinder.search(coordinates, walkTime);
-        expect(result).toEqual({});
+        expect(result).toEqual([]);
       })
     })
   });
