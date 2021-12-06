@@ -1,4 +1,5 @@
 const express = require('express');
+      cors = require('cors'),
       app = express(),
       BarFinder = require('./bar_finder'),
       Client = require('./client'),
@@ -6,7 +7,7 @@ const express = require('express');
 
 app.use(express.json());
 
-app.post('/bars', async (req, res) => {
+app.post('/bars', cors(), async (req, res) => {
   const barFinder = new BarFinder(new Client, new Sorter),
         results = await barFinder.search(req.body.location, req.body.mins);
 
