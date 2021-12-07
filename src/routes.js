@@ -1,5 +1,6 @@
 const express = require('express');
       cors = require('cors'),
+      axios = require('axios'),
       app = express(),
       BarFinder = require('./bar_finder'),
       Client = require('./client'),
