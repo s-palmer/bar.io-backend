@@ -10,7 +10,9 @@
       "place_id" : "ChIJG9HAbrocdkgR9GeXpRzGL6U",
       "price_level" : 2,
       "rating" : 4.2,
-      "types" : [ "bar", "point_of_interest", "establishment" ]
+      "types" : [ "bar", "point_of_interest", "establishment" ],
+      "photo_reference" : "Aap_uED1CugYPfqWkFre7REIHYSCriFwRu2MLfG8ASCFi9zVWK6y-xRsMUdWp_VrBQ2Ghvm9st9dIyFup3PNzOQ8RdzcGDC3IEUfqIcvJUqLG_FwFS5pDRQ9rqE40nNR_OWeOWehFGL9asx7T1UCXISFKxaN32_NgH8uIB_MqAptibl9OMxg",
+      "user_ratings_total" : 1267
     },
     {
       "name" : "Be At One - Shoreditch",
@@ -22,7 +24,9 @@
       "place_id" : "ChIJEydavrocdkgRSPZlYOtszUc",
       "price_level" : 2,
       "rating" : 4.2,
-      "types" : [ "bar", "point_of_interest", "establishment" ]
+      "types" : [ "bar", "point_of_interest", "establishment" ],
+      "photo_reference" : "Aap_uEB09q510OvumwTrINv2SPYMf58Q5O1QKXmt1nxi6p6wdiHgonCYwVQbXfSFLe-uJA8x-rrPjgRkkTmN9YVuAIOPwnBYkYhw_Y4X40ynkprfaF81In_Yar9A3hb8GN7sNxX232Fp23Fm4H_FazNJh8T3cnoZXszgcU5ZgKHPZukO6RFb",
+      "user_ratings_total" : 734
     },
     {
       "name" : "Simmons Bar | Tower Bridge",
@@ -34,7 +38,9 @@
       "place_id" : "ChIJU2RB6TUDdkgRdMFTLtY_DYU",
       "price_level" : 2,
       "rating" : 4.7,
-      "types" : [ "bar", "point_of_interest", "establishment" ]
+      "types" : [ "bar", "point_of_interest", "establishment" ],
+      "photo_reference" : "Aap_uEBVfKShylD5Mz0OELkbTHwDg3s3CI13MIl5lud6yQdG7HYeHd8bf9Hh5kleRzZXwmacMKRicPzBzUjqquwCzKWD5hTqWEDBLqny63PeT7qITKKjBlp5_54MlDobYcYVoEJyDr1m6R5zT_gf2TZIWbwrMczx2F8_7yzvMoQe-8sZfhES",
+      "user_ratings_total" : 591
     },
     {
       "name" : "Be At One Monument",
@@ -46,7 +52,9 @@
       "place_id" : "ChIJwbCL7lMDdkgRFIV1xElLZkY",
       "price_level" : 2,
       "rating" : 4.1,
-      "types" : [ "bar", "point_of_interest", "establishment" ]
+      "types" : [ "bar", "point_of_interest", "establishment" ],
+      "photo_reference" : "Aap_uEAF0BBkDWJnNAkbSIf0X-MF_euWXgOPyeOIad1mU0MSZfKHfC7LsOXDlSvm55fLn9rVGfCZYkBAjfZBIPEiZu6P4LOLFiZzBAb86dOnwfmQLXQzy_k5vG_5VJ73W1Rr3RTpZsQOIDYt7Ll08S1ekYx_V9OYOk4dBp0h3XoSjGJudsHk",
+      "user_ratings_total" : 602
     },
     {
       "name" : "Juju's Bar and Stage",
@@ -57,7 +65,9 @@
       },
       "place_id" : "ChIJ5QMqYrYcdkgRJO_Xt9K1y7w",
       "rating" : 4.2,
-      "types" : [ "bar", "point_of_interest", "establishment" ]
+      "types" : [ "bar", "point_of_interest", "establishment" ],
+      "photo_reference" : "Aap_uED_ZddYxWP8w04D3M6H_4HkQcv5tqUYTYN6HDdIlpX6CEsFw_7PHTNpeyu89SDn_sJSWKILARb6qrHhFheAM9_K5R6dwZ8CwYrh9K18KEm5FBrUFpixkg990YZPaG-s9Vd5La6hx2lG4oZ-Bu94RwS6wdVTJI5blR1qtk2UFCgffyER",
+      "user_ratings_total" : 574
     }
   ]
 }
