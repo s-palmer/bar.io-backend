@@ -33,7 +33,9 @@ class BarFinder {
         place_id: bar.place_id,
         price_level: bar.price_level,
         rating: bar.rating,
-        types: bar.types
+        types: bar.types,
+        user_ratings_total: bar.user_ratings_total,
+        photo_reference: bar.photos[0].photo_reference
       }
     });
   }
