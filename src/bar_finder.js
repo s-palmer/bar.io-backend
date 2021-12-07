@@ -9,8 +9,8 @@ class BarFinder {
     let walkTimeToMeters = this.#convertToMeters(walkTime),
         data = await this.client.getLocations(coordinates, walkTimeToMeters);
 
-    if (Object.entries(data).length === 0) {
-      return {};
+    if (data.length === 0) {
+      return [];
     } else {
       let rawResults = this.sorter.topFiveBars(data);
       return this.#format(rawResults);

@@ -1,0 +1,63 @@
+{
+  "results" : [
+    {
+      "name" : "Bar Kick",
+      "formatted_address" : "127 Shoreditch High St, London E1 6JE",
+      "location" : {
+          "lat" : 51.526849,
+          "lng" : -0.078222
+        },
+      "place_id" : "ChIJG9HAbrocdkgR9GeXpRzGL6U",
+      "price_level" : 2,
+      "rating" : 4.2,
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "name" : "Be At One - Shoreditch",
+      "formatted_address" : "348 Old St, London EC1V 9NQ",
+      "location" : {
+          "lat" : 51.5267393,
+          "lng" : -0.0808696
+        },
+      "place_id" : "ChIJEydavrocdkgRSPZlYOtszUc",
+      "price_level" : 2,
+      "rating" : 4.2,
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "name" : "Simmons Bar | Tower Bridge",
+      "formatted_address" : "61 Royal Mint St, London E1 8LG",
+      "location" : {
+          "lat" : 51.51065879999999,
+          "lng" : -0.06906659999999999
+        },
+      "place_id" : "ChIJU2RB6TUDdkgRdMFTLtY_DYU",
+      "price_level" : 2,
+      "rating" : 4.7,
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "name" : "Be At One Monument",
+      "formatted_address" : "28 King William St, London EC4R 9AT",
+      "location" : {
+          "lat" : 51.5105218,
+          "lng" : -0.08708249999999999
+        },
+      "place_id" : "ChIJwbCL7lMDdkgRFIV1xElLZkY",
+      "price_level" : 2,
+      "rating" : 4.1,
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "name" : "Juju's Bar and Stage",
+      "formatted_address" : "Ely's Yard, 15 Hanbury St, London E1 6QR",
+      "location" : {
+          "lat" : 51.5205128,
+          "lng" : -0.0736106
+      },
+      "place_id" : "ChIJ5QMqYrYcdkgRJO_Xt9K1y7w",
+      "rating" : 4.2,
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    }
+  ]
+}

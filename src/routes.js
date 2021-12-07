@@ -1,11 +1,17 @@
 const express = require('express');
-const app = express();
-const Client = require('../src/client');
+      cors = require('cors'),
+      axios = require('axios'),
+      app = express(),
+      BarFinder = require('./bar_finder'),
+      Client = require('./client'),
+      Sorter = require('./sorter');
 
-app.get('/bars', async (req, res) => {
-  const client = new Client;
+app.use(express.json());
+app.use(cors());
 
-  const results = await client.getLocations({x: 51.5173523, y: -0.0754469}, 1600);
+app.post('/bars', async (req, res) => {
+  const barFinder = new BarFinder(new Client, new Sorter),
+        results = await barFinder.search(req.body.location, req.body.mins);
 
   res.send({results: results});
 });

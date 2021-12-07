@@ -15,7 +15,7 @@ class Client {
     const response = await axios.get(
       this.#endPoint +
       'json?query=bar' +
-      `&location=${coordinates.x},${coordinates.y}` +
+      `&location=${coordinates.lat},${coordinates.lng}` +
       `&radius=${radius}${fixedfilters}&key=${this.#apiKey}&opennow`
     )
     return response.data.results;
