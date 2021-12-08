@@ -25,7 +25,7 @@ class BarFinder {
     return rawResults.map(bar => {
       return {
         name: bar.name,
-        formatted_address: bar.formatted_address,
+        formatted_address: bar.vicinity,
         location: {
           lat: bar.geometry.location.lat,
           lng: bar.geometry.location.lng
