@@ -35,9 +35,13 @@ class BarFinder {
         rating: bar.rating,
         types: bar.types,
         user_ratings_total: bar.user_ratings_total,
-        photo_reference: bar.photos[0].photo_reference
+        photo_reference: this.#checkForPhoto(bar)
       }
     });
+  }
+
+  #checkForPhoto(bar) {
+    return bar.photos ? bar.photos[0].photo_reference : null
   }
 }
 
