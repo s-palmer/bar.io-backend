@@ -10,13 +10,12 @@ class Client {
   }
 
   async getLocations(coordinates, radius) {
-    const fixedfilters = '&region=uk&type=bar'
+    const fixedfilters = '&keyword=pub&opennow'
 
     const response = await axios.get(
-      this.#endPoint +
-      'json?query=bar' +
-      `&location=${coordinates.lat},${coordinates.lng}` +
-      `&radius=${radius}${fixedfilters}&key=${this.#apiKey}&opennow`
+      `${this.#endPoint}json?` +
+      `location=${coordinates.lat}%2C${coordinates.lng}` +
+      `&radius=${radius}${fixedfilters}&key=${this.#apiKey}`
     )
     return response.data.results;
   }

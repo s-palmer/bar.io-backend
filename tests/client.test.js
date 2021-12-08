@@ -19,10 +19,10 @@ describe('getLocations', () => {
     await client.getLocations(coordinates, radius);
 
     expect(axios.get).toHaveBeenCalledWith(
-        `${process.env.PLACES_API_ENDPOINT}json?query=bar&location=` +
-        `${coordinates.lat},${coordinates.lng}` +
-        `&radius=${radius}&region=uk&type=bar` +
-        `&key=${process.env.PLACES_API_KEY}&opennow`
+        `${process.env.PLACES_API_ENDPOINT}json?` +
+        `location=${coordinates.lat}%2C${coordinates.lng}` +
+        `&radius=${radius}&keyword=pub&opennow` +
+        `&key=${process.env.PLACES_API_KEY}`
     );
   });
 });
