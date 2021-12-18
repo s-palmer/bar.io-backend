@@ -1,28 +1,53 @@
-# Bar App
+# Bar.io Backend
 
-## makers project 3
+A server API that gives you the top 5 bars within walking distance of your location.
 
-a server API that gives you the top 5 bars within walking distance of your location.
+## Table of Contents
 
-## Running server
+- [Stack](#stack)
+- [Usage](#usage)
+- [Team](#team)
 
-Insure you have a version <version> of node installed with node package manager.
+## [Stack](https://github.com/s-palmer/barrio-backend#stack)
 
-`npm install`
+| Logo | Tool | Use | Where is it used? |
+| ---------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------- |
+| <img src="public/images/react.png" height="auto" width="50"> | [ReactJS](https://reactjs.org/) | ReactJS is a front-end JavaScript library for building user interfaces based on UI components. | [Frontend Repo](https://github.com/s-palmer/barrio-frontend) |
+| <img src="public/images/node.png" height="auto" width="50">  | [Node](https://nodejs.org/en/) | NodeJS is a back-end JavaScript runtime environment | |
+| <img src="public/images/express.png" height="auto" width="50"> | [ExpressJS](https://expressjs.com/) | ExpressJS is a fast, unopinionated, minimalist web framework for Node.js ||
+| <img src="public/images/heroku.png" height="auto" width="50"> | [Heroku](https://www.heroku.com/) | Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. | Live deployment.
 
-### Setup API key
+## [Usage](https://github.com/s-palmer/barrio-backend#usage)
 
-This app uses [Google maps places API](https://developers.google.com/maps/documentation/places/web-service/search)
-You will need to setup an account and get an API key in order to run this app.
+## Pre-Requisites
 
-### Create .env file
+### Google Cloud API key.
+- Register for free [here](https://cloud.google.com/).
+- Required APIs to enable:
+* Geocoding
+* Places
+* Maps JavaScript API
 
-Make a new file in the root of this directory called `.env` and put the following inside:
+### Environment Variables
+
+In a .env file:
+
+- PLACES_API_ENDPOINT='https://maps.googleapis.com/maps/api/place/textsearch/'
+- PLACES_API_KEY=<YOUR_API_KEY_GOES_HERE>
+
+## Quickstart
+
+Clone this repository. Then:
+
+```bash
+> npm install
+> nodemon server.js
 ```
-PLACES_API_ENDPOINT='https://maps.googleapis.com/maps/api/place/textsearch/'
-PLACES_API_KEY=<YOUR_API_KEY_GOES_HERE>
-```
+> Runs the app in development mode.
 
-### To run the server
+## [Team](https://github.com/s-palmer/barrio-frontend#team)
 
-`nodemon server.js`
+* Sergei - [Github](https://github.com/s-palmer)
+* Tim - [Github](https://github.com/TTurvey)
+* Matt - [Github](https://github.com/Matt-Warnock)
+* Tania - [Github](https://github.com/Pinkish-Warrior)
